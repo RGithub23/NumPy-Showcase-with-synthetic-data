@@ -4,10 +4,15 @@ This google colab notebook demonstrates practical NumPy patterns on synthetic da
 Sections:
 
 Arrays, broadcasting, boolean masks
+
 Monte Carlo π approximation and vectorized random walk
+
 Linear regression from scratch (normal equation and gradient descent)
+
 k-means clustering from scratch (vectorized E-step/M-step)
+
 Fast Fourier Transform (FFT) on a synthetic signal
+
 All examples are self-contained and require only NumPy and Matplotlib.
 
 ---
