@@ -15,9 +15,24 @@ All examples are self-contained and require only NumPy and Matplotlib.
 ## Try it out in Google Colab as primarily built here!
 
 
-[
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
         "<a href=\"https://colab.research.google.com/github/RGithub23/NumPy-Showcase-with-synthetic-data/blob/main/numpy_showcase_core.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "0BOB5gGdR7PG"
+      },
+      "source": [
 
 ---
 
