@@ -23,10 +23,6 @@ All examples are self-contained and require only NumPy and Matplotlib.
 NumPy-Showcase-with-synthetic-data.ipynb: Jupyter notebook
 
 ---
-
-## Features
-
----
 ## Requirements
 
 This Colab notebook automatically installs all necessary dependencies
