@@ -1,5 +1,5 @@
 # NumPy-Showcase-with-synthetic-data
-This Numpy Showcase demonstrates practical NumPy patterns on synthetic data, independent of any specific ML model.
+This NumPy Showcase demonstrates practical NumPy patterns on synthetic data, independent of any specific ML model.
 
 Sections:
 
