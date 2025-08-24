@@ -14,7 +14,7 @@ All examples are self-contained and require only NumPy and Matplotlib.
 
 ## Try it out in Google Colab as primarily built here!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RGithub23/numpy_showcase_core.ipynb/blob/main/numpy_showcase_core.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RGithub23/numpy_showcase_core/blob/main/numpy_showcase_core.ipynb)
 
 ---
 
